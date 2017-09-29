@@ -95,4 +95,5 @@ int main(void)
         
         printf("%.3f %.3f\n", W1_speed[steering_angle], W2_speed[steering_angle]);
     }    
+    return 0;
 }
